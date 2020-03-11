@@ -1,6 +1,6 @@
 # auto_modeling
 
-This is an integrated program helping analysts build various types of models, such as response model and risk model. The program includes the whole process of building models from data exploration, data preprocessing, modeling to model selection. To make the program work smoothly, please place the files to the corresponding folders(locations).
+This is an integrated program helping analysts build various types of models, such as response model and risk model. The program includes the whole process of building models from data exploration, data preprocessing, modeling to model selection. To make the program work smoothly, please place the files to the corresponding folders(directories).
 
 1. Data
 - Contents:
@@ -21,7 +21,7 @@ This is an integrated program helping analysts build various types of models, su
   - Results of variable preprocessing(.pdf/.csv)
   - Model result (Lift Chart)
 
-=== Please do nothing to the following folders ===
+=== Please keep the following directories unchanged===
 
 4. sources
 - The locations for the modules
