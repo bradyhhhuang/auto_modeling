@@ -1,0 +1,8 @@
+Field,Type,Category,Note,Content
+RNUM,nominal,KEY,,
+CNP_CDE,nominal,ANALYSIS,,活動代號
+RESPONSE_2W,nominal,Y,,活動結束後2周內有回應
+X0001,numeric,X_drop,,
+X0002,numeric,X,,
+X0003,nominal,X,,新戶註記
+X0004,nominal,X_drop,,學歷 1:國中以下 2:高中 3: 大學 4: 碩士以上
